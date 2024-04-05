@@ -1,10 +1,10 @@
 package org.example;
 
-import org.example.service.UserInputService;
+import org.example.service.FileSystemManager;
 
 public class Main {
     public static void main(String[] args) {
-        UserInputService service = new UserInputService();
-        service.runUserInputs();
+        FileSystemManager fileSystemManager = new FileSystemManager();
+        fileSystemManager.startFileSystemInput();
     }
 }

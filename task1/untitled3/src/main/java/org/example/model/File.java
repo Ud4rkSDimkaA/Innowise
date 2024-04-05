@@ -1,7 +1,7 @@
 package org.example.model;
 
-public class File {
-    private String name;
+public class File implements FileSystemElement {
+    private final String name;
 
     public File(String name) {
         this.name = name;

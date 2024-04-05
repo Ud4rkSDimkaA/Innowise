@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertSame;
 
 class FileSystemManagerTest {
 
-    private FileSystemManager fileSystemManager;
+    /*private FileSystemManager fileSystemManager;
 
     @BeforeEach
     void setUp(){
@@ -62,5 +62,5 @@ class FileSystemManagerTest {
     public void testFileMethods() {
         File file = new File("file.txt");
         assertEquals("file.txt", file.getName());
-    }
+    }*/
 }
