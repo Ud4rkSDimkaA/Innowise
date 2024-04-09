@@ -1,0 +1,9 @@
+
+©
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ˆıû¹úÿÿÿÿ8£ˆ›’ì1J$00d4066c-2b9c-40fa-8264-45017db0d512
+
+java:S2441"MMake "List" and its parameters serializable or don't store it in the session.(¿Ÿ›¯8¤ˆ›’ì1J$893d4585-cb49-4466-96b4-678ef338aa23
+¤
+java:S1989!"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¹€¡8¤ˆ›’ì1J$f2dd7737-a217-4cb1-be3f-5f33ed0f08f7
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ĞèÅşùÿÿÿÿ8¤ˆ›’ì1J$ea2b6a25-490c-40ec-9776-f2936438b5a1

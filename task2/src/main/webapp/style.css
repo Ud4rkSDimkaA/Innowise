@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Сделать страницу по высоте окна браузера */
+    margin: 0;
+}
+
+.style {
+    text-align: center; /* Центрирование содержимого */
+}
+
+.style h2 {
+    margin-bottom: 20px; /* Отступ между заголовком и формой */
+}
+
+.style h3{
+    margin-bottom: 20px; /* Отступ между заголовком и формой */
+}
+
+.style form {
+    width: 300px; /* Ширина формы */
+    margin: 0 auto; /* Центрирование формы по горизонтали */
+}
+
+.style input[type="text"],
+.style input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box; /* Для включения внешних отступов в ширину и высоту элемента */
+}
+
+.style input[type="submit"] {
+    background-color: dimgrey;
+    color: #fff;
+    cursor: pointer;
+}
