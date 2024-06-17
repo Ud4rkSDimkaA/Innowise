@@ -1,0 +1,49 @@
+server:
+  port: 8075
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      default-zone: http://localhost:8761/eureka
+spring:
+  application:
+    name: gateway-service
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: inventory-service
+          uri: lb://inventory-service
+          predicates:
+            - Path=/v1/api/inventory/all
+            - Path=/v1/api/inventory
+            - Method=GET
+          filters:
+            - StripPrefix=1
+        - id: order-service
+          uri:
+            lb://order-service
+          predicates:
+            - Path=/v1/api/orders
+            - Path=/v1/api/orders/order/{order_id}
+            - Method=GET,POST
+          filters:
+            - StripPrefix=1
+        - id: product-service
+          uri: lb://PRODUCT-SERVICE
+          predicates:
+            - Path=/v1/api/products/product
+            - Path=/v1/api/products
+            - Path=/v1/api/products/product/{product_name}
+          filters:
+            - StripPrefix=1
+logging:
+  level:
+    org.springframework.cloud.gateway: DEBUG
+    org.springframework.web: DEBUG
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03387893-d32d-47fb-8869-25f61ddc1f50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/ru/java/micro/demo/eurekaclient/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task1/demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/2/1/21d81e8843e36500d120f7eb78329afe61fcbe64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/2/5/259aa42e4453e7eae7225acbd3dbaede8bc45273" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/2/7/27a8e25ae3121819d54adfe4e25e0b425d1cf9a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/3/7/37a7e7efd6aa64ede7eb56f2f71c420a37050399" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/3/7/37a7e7efd6aa64ede7eb56f2f71c420a37050399" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/4/3/436833c2a11617db045aa8a0373a40babedc827f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/6/1/61e594c4b31578b694698998b5c2a84a73beb45e" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/6/1/61e594c4b31578b694698998b5c2a84a73beb45e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/6/6/668f711c2d5c2767ffdf92d170cb3260f6f81a98" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/6/6/668f711c2d5c2767ffdf92d170cb3260f6f81a98" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/7/f/7fd06cd298adac6e2b1e566b82722686e61367bb" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/7/f/7fd06cd298adac6e2b1e566b82722686e61367bb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/9/e/9e46605c7f555576a552868302869a1e6c1658b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/a/9/a9b525d02897189d476c4f767e41ad2f3367abea" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/a/9/a9b525d02897189d476c4f767e41ad2f3367abea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/c/0/c00946f9ef0c317519b64a09a929267391a4afde" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/c/0/c00946f9ef0c317519b64a09a929267391a4afde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/2/1/21d81e8843e36500d120f7eb78329afe61fcbe64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/2/5/259aa42e4453e7eae7225acbd3dbaede8bc45273" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/2/7/27a8e25ae3121819d54adfe4e25e0b425d1cf9a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/4/3/436833c2a11617db045aa8a0373a40babedc827f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/9/e/9e46605c7f555576a552868302869a1e6c1658b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/eureka-client">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/eureka-server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fJcQXGNUk5XcFLXTwROo30fsKg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "dev",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.45517242",
+    "settings.editor.selected.configurable": "Console",
+    "spring.configuration.checksum": "06a416411bd5b0c8a328ec4dcfb2c164",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-client.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.java.micro.demo.eurekaclient.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.java.micro.demo.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03387893-d32d-47fb-8869-25f61ddc1f50" name="Changes" comment="" />
+      <created>1713522606220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713522606220</updated>
+      <workItem from="1713522607384" duration="2874000" />
+      <workItem from="1713787188233" duration="32000" />
+      <workItem from="1713787231848" duration="2050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
